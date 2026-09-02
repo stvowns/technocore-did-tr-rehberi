@@ -1,0 +1,19 @@
+# identity.pem ve passphrase dahil TÜM gizli anahtarlar
+identity.pem
+.env*
+*.pem
+*.key
+
+# Python
+__pycache__/
+.venv/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
